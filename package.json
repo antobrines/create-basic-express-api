@@ -1,0 +1,26 @@
+{
+  "name": "create-basic-express-api",
+  "version": "1.1.0",
+  "bin": {
+    "create-basic-express-api": "index.js"
+  },
+  "description": "A CLI to automatically clone the Express API Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antobrines/create-basic-express-api.git"
+  },
+  "keywords": [],
+  "author": "Antonin BRINES",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antobrines/create-basic-express-api/issues"
+  },
+  "homepage": "https://github.com/antobrines/create-basic-express-api#readme",
+  "dependencies": {
+    "cross-spawn": "^7.0.3"
+  }
+}
